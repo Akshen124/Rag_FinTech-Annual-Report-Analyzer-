@@ -1,0 +1,7 @@
+streamlit==1.25.0
+chromadb==0.5.23
+sentence-transformers==2.2.2
+pymupdf==1.22.0
+python-docx==0.8.11
+tqdm==4.65.0
+requests==2.31.0
